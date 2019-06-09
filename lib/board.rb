@@ -1,3 +1,5 @@
 # Define the variable board below.
-_localvariable = board
+
+def _localvariable = board
   
+end
