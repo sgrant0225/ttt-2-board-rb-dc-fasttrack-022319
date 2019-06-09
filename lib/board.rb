@@ -1,4 +1,3 @@
 # Define the variable board below.
-_localvariable = 
+_localvariable = board
   
-end
